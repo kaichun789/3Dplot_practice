@@ -1,0 +1,2 @@
+# plot_practice
+matplotlibを使ったグラフ表示の仕方をまとめたリポジトリです．
